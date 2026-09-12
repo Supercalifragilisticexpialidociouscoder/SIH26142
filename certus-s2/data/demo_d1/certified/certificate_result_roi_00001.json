@@ -1,0 +1,3744 @@
+{
+  "test_scene": "ROI_00001",
+  "location": "Madrid/Guadalajara, Spain",
+  "tile": "T30TXM",
+  "calibration_artifact": "data/calibration/d1_calibration.json",
+  "track_a_alpha_010": {
+    "result": {
+      "certificate_status": "CERTIFIED",
+      "method": "TRACK_A",
+      "alpha": 0.2,
+      "N_proposed": 109,
+      "N_selected": 7,
+      "selected_candidate_ids": [
+        15,
+        16,
+        30,
+        43,
+        65,
+        79,
+        83
+      ],
+      "candidate_results": [
+        {
+          "id": 1,
+          "area_px": 142,
+          "centroid": [
+            21.8,
+            14.45
+          ],
+          "risk": 0.19540999829769135,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 2,
+          "area_px": 20,
+          "centroid": [
+            4.45,
+            35.1
+          ],
+          "risk": 0.1907700002193451,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 3,
+          "area_px": 27,
+          "centroid": [
+            7.48,
+            446.19
+          ],
+          "risk": 0.23965999484062195,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 4,
+          "area_px": 32,
+          "centroid": [
+            9.41,
+            46.16
+          ],
+          "risk": 0.18795999884605408,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 5,
+          "area_px": 39,
+          "centroid": [
+            17.23,
+            62.1
+          ],
+          "risk": 0.1877100020647049,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 6,
+          "area_px": 23,
+          "centroid": [
+            18.74,
+            195.83
+          ],
+          "risk": 0.18671999871730804,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 7,
+          "area_px": 26,
+          "centroid": [
+            20.15,
+            104.46
+          ],
+          "risk": 0.19199000298976898,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 8,
+          "area_px": 30,
+          "centroid": [
+            22.1,
+            165.27
+          ],
+          "risk": 0.19561000168323517,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 9,
+          "area_px": 17,
+          "centroid": [
+            24.18,
+            170.41
+          ],
+          "risk": 0.18937000632286072,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 10,
+          "area_px": 63,
+          "centroid": [
+            29.97,
+            75.49
+          ],
+          "risk": 0.1902499943971634,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 11,
+          "area_px": 26,
+          "centroid": [
+            30.12,
+            96.12
+          ],
+          "risk": 0.18562999367713928,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 12,
+          "area_px": 34,
+          "centroid": [
+            41.47,
+            187.06
+          ],
+          "risk": 0.19362999498844147,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 13,
+          "area_px": 21,
+          "centroid": [
+            43.1,
+            446.24
+          ],
+          "risk": 0.24305999279022217,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 14,
+          "area_px": 18,
+          "centroid": [
+            43.83,
+            16.94
+          ],
+          "risk": 0.185589998960495,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 15,
+          "area_px": 16,
+          "centroid": [
+            46.94,
+            97.62
+          ],
+          "risk": 0.18443000316619873,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 16,
+          "area_px": 16,
+          "centroid": [
+            48.44,
+            87.25
+          ],
+          "risk": 0.18402999639511108,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 17,
+          "area_px": 25,
+          "centroid": [
+            49.68,
+            24.28
+          ],
+          "risk": 0.19234000146389008,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 18,
+          "area_px": 105,
+          "centroid": [
+            60.52,
+            67.71
+          ],
+          "risk": 0.19261999428272247,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 19,
+          "area_px": 21,
+          "centroid": [
+            55.33,
+            30.33
+          ],
+          "risk": 0.1889999955892563,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 20,
+          "area_px": 16,
+          "centroid": [
+            55.38,
+            41.0
+          ],
+          "risk": 0.18583999574184418,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 21,
+          "area_px": 75,
+          "centroid": [
+            66.31,
+            78.65
+          ],
+          "risk": 0.1920900046825409,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 22,
+          "area_px": 16,
+          "centroid": [
+            59.19,
+            48.81
+          ],
+          "risk": 0.1878100037574768,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 23,
+          "area_px": 22,
+          "centroid": [
+            92.73,
+            164.14
+          ],
+          "risk": 0.18887999653816223,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 24,
+          "area_px": 16,
+          "centroid": [
+            104.25,
+            446.12
+          ],
+          "risk": 0.22978000342845917,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 25,
+          "area_px": 26,
+          "centroid": [
+            112.65,
+            245.12
+          ],
+          "risk": 0.20081999897956848,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 26,
+          "area_px": 19,
+          "centroid": [
+            120.42,
+            292.74
+          ],
+          "risk": 0.1874600052833557,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 27,
+          "area_px": 101,
+          "centroid": [
+            143.86,
+            446.28
+          ],
+          "risk": 0.22989000380039215,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 28,
+          "area_px": 16,
+          "centroid": [
+            127.62,
+            307.31
+          ],
+          "risk": 0.18682999908924103,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 29,
+          "area_px": 17,
+          "centroid": [
+            129.88,
+            289.94
+          ],
+          "risk": 0.18622000515460968,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 30,
+          "area_px": 17,
+          "centroid": [
+            132.12,
+            317.18
+          ],
+          "risk": 0.18526999652385712,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 31,
+          "area_px": 17,
+          "centroid": [
+            141.94,
+            315.94
+          ],
+          "risk": 0.18684999644756317,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 32,
+          "area_px": 24,
+          "centroid": [
+            193.71,
+            418.12
+          ],
+          "risk": 0.19043999910354614,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 33,
+          "area_px": 30,
+          "centroid": [
+            198.0,
+            128.87
+          ],
+          "risk": 0.18856999278068542,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 34,
+          "area_px": 40,
+          "centroid": [
+            204.43,
+            141.53
+          ],
+          "risk": 0.18814000487327576,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 35,
+          "area_px": 23,
+          "centroid": [
+            218.0,
+            184.35
+          ],
+          "risk": 0.18738000094890594,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 36,
+          "area_px": 28,
+          "centroid": [
+            220.82,
+            86.54
+          ],
+          "risk": 0.1917400062084198,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 37,
+          "area_px": 20,
+          "centroid": [
+            228.25,
+            80.55
+          ],
+          "risk": 0.18796999752521515,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 38,
+          "area_px": 29,
+          "centroid": [
+            230.83,
+            109.55
+          ],
+          "risk": 0.18846000730991364,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 39,
+          "area_px": 18,
+          "centroid": [
+            232.56,
+            394.06
+          ],
+          "risk": 0.1865299940109253,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 40,
+          "area_px": 25,
+          "centroid": [
+            237.12,
+            76.24
+          ],
+          "risk": 0.19119000434875488,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 41,
+          "area_px": 22,
+          "centroid": [
+            248.77,
+            75.68
+          ],
+          "risk": 0.18636000156402588,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 42,
+          "area_px": 100,
+          "centroid": [
+            274.19,
+            67.15
+          ],
+          "risk": 0.18835000693798065,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 43,
+          "area_px": 16,
+          "centroid": [
+            260.75,
+            99.5
+          ],
+          "risk": 0.1846500039100647,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 44,
+          "area_px": 176,
+          "centroid": [
+            277.27,
+            195.49
+          ],
+          "risk": 0.19235000014305115,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 45,
+          "area_px": 17,
+          "centroid": [
+            283.41,
+            133.94
+          ],
+          "risk": 0.1861400008201599,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 46,
+          "area_px": 21,
+          "centroid": [
+            283.29,
+            425.57
+          ],
+          "risk": 0.18589000403881073,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 47,
+          "area_px": 34,
+          "centroid": [
+            293.85,
+            230.18
+          ],
+          "risk": 0.18884000182151794,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 48,
+          "area_px": 16,
+          "centroid": [
+            292.94,
+            364.56
+          ],
+          "risk": 0.1879200041294098,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 49,
+          "area_px": 53,
+          "centroid": [
+            301.21,
+            49.94
+          ],
+          "risk": 0.18695999681949615,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 50,
+          "area_px": 25,
+          "centroid": [
+            299.28,
+            82.16
+          ],
+          "risk": 0.1877799928188324,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 51,
+          "area_px": 21,
+          "centroid": [
+            297.43,
+            168.95
+          ],
+          "risk": 0.18939000368118286,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 52,
+          "area_px": 44,
+          "centroid": [
+            311.39,
+            162.61
+          ],
+          "risk": 0.18855999410152435,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 53,
+          "area_px": 41,
+          "centroid": [
+            305.95,
+            353.9
+          ],
+          "risk": 0.1925400048494339,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 54,
+          "area_px": 18,
+          "centroid": [
+            308.83,
+            398.39
+          ],
+          "risk": 0.18731999397277832,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 55,
+          "area_px": 34,
+          "centroid": [
+            310.21,
+            116.41
+          ],
+          "risk": 0.18637999892234802,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 56,
+          "area_px": 73,
+          "centroid": [
+            310.6,
+            263.04
+          ],
+          "risk": 0.20569999516010284,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 57,
+          "area_px": 83,
+          "centroid": [
+            318.29,
+            277.7
+          ],
+          "risk": 0.18937000632286072,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 58,
+          "area_px": 20,
+          "centroid": [
+            314.7,
+            243.6
+          ],
+          "risk": 0.18602000176906586,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 59,
+          "area_px": 92,
+          "centroid": [
+            325.5,
+            36.34
+          ],
+          "risk": 0.18873000144958496,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 60,
+          "area_px": 30,
+          "centroid": [
+            318.47,
+            72.7
+          ],
+          "risk": 0.18591000139713287,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 61,
+          "area_px": 78,
+          "centroid": [
+            324.58,
+            291.64
+          ],
+          "risk": 0.18876999616622925,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 62,
+          "area_px": 84,
+          "centroid": [
+            327.48,
+            211.24
+          ],
+          "risk": 0.19101999700069427,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 63,
+          "area_px": 56,
+          "centroid": [
+            328.14,
+            194.38
+          ],
+          "risk": 0.1915699988603592,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 64,
+          "area_px": 70,
+          "centroid": [
+            330.94,
+            302.57
+          ],
+          "risk": 0.19031000137329102,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 65,
+          "area_px": 19,
+          "centroid": [
+            330.47,
+            65.16
+          ],
+          "risk": 0.18459999561309814,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 66,
+          "area_px": 51,
+          "centroid": [
+            334.35,
+            163.35
+          ],
+          "risk": 0.18633000552654266,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 67,
+          "area_px": 18,
+          "centroid": [
+            331.89,
+            153.94
+          ],
+          "risk": 0.18606999516487122,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 68,
+          "area_px": 48,
+          "centroid": [
+            335.42,
+            413.38
+          ],
+          "risk": 0.20000000298023224,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 69,
+          "area_px": 115,
+          "centroid": [
+            345.57,
+            239.1
+          ],
+          "risk": 0.19203999638557434,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 70,
+          "area_px": 22,
+          "centroid": [
+            339.68,
+            189.32
+          ],
+          "risk": 0.18708999454975128,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 71,
+          "area_px": 124,
+          "centroid": [
+            354.56,
+            255.99
+          ],
+          "risk": 0.1911199986934662,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 72,
+          "area_px": 62,
+          "centroid": [
+            346.82,
+            99.02
+          ],
+          "risk": 0.20232999324798584,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 73,
+          "area_px": 18,
+          "centroid": [
+            348.39,
+            56.11
+          ],
+          "risk": 0.18557000160217285,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 74,
+          "area_px": 18,
+          "centroid": [
+            344.78,
+            248.72
+          ],
+          "risk": 0.18807999789714813,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 75,
+          "area_px": 39,
+          "centroid": [
+            351.44,
+            334.51
+          ],
+          "risk": 0.18910999596118927,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 76,
+          "area_px": 27,
+          "centroid": [
+            345.78,
+            420.78
+          ],
+          "risk": 0.18855999410152435,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 77,
+          "area_px": 77,
+          "centroid": [
+            352.3,
+            112.49
+          ],
+          "risk": 0.1967799961566925,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 78,
+          "area_px": 34,
+          "centroid": [
+            353.26,
+            435.06
+          ],
+          "risk": 0.18817999958992004,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 79,
+          "area_px": 16,
+          "centroid": [
+            357.06,
+            198.0
+          ],
+          "risk": 0.18501999974250793,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 80,
+          "area_px": 55,
+          "centroid": [
+            357.76,
+            123.09
+          ],
+          "risk": 0.19965000450611115,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 81,
+          "area_px": 64,
+          "centroid": [
+            371.97,
+            145.2
+          ],
+          "risk": 0.18875999748706818,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 82,
+          "area_px": 104,
+          "centroid": [
+            372.55,
+            230.12
+          ],
+          "risk": 0.19457000494003296,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 83,
+          "area_px": 22,
+          "centroid": [
+            376.45,
+            173.14
+          ],
+          "risk": 0.18535999953746796,
+          "p_value": null,
+          "certified": true
+        },
+        {
+          "id": 84,
+          "area_px": 77,
+          "centroid": [
+            382.52,
+            122.3
+          ],
+          "risk": 0.19979000091552734,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 85,
+          "area_px": 65,
+          "centroid": [
+            387.89,
+            182.85
+          ],
+          "risk": 0.18854999542236328,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 86,
+          "area_px": 28,
+          "centroid": [
+            380.79,
+            409.68
+          ],
+          "risk": 0.1991100013256073,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 87,
+          "area_px": 100,
+          "centroid": [
+            385.91,
+            258.47
+          ],
+          "risk": 0.1977899968624115,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 88,
+          "area_px": 77,
+          "centroid": [
+            390.49,
+            423.55
+          ],
+          "risk": 0.18978999555110931,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 89,
+          "area_px": 42,
+          "centroid": [
+            393.07,
+            402.48
+          ],
+          "risk": 0.19141000509262085,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 90,
+          "area_px": 80,
+          "centroid": [
+            396.91,
+            370.09
+          ],
+          "risk": 0.18956999480724335,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 91,
+          "area_px": 16,
+          "centroid": [
+            394.62,
+            171.5
+          ],
+          "risk": 0.18592000007629395,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 92,
+          "area_px": 25,
+          "centroid": [
+            401.6,
+            357.52
+          ],
+          "risk": 0.19302000105381012,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 93,
+          "area_px": 19,
+          "centroid": [
+            404.11,
+            201.89
+          ],
+          "risk": 0.1862799972295761,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 94,
+          "area_px": 53,
+          "centroid": [
+            406.75,
+            383.72
+          ],
+          "risk": 0.19099999964237213,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 95,
+          "area_px": 68,
+          "centroid": [
+            412.47,
+            393.1
+          ],
+          "risk": 0.1882600039243698,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 96,
+          "area_px": 52,
+          "centroid": [
+            410.46,
+            170.81
+          ],
+          "risk": 0.18922999501228333,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 97,
+          "area_px": 22,
+          "centroid": [
+            407.05,
+            419.14
+          ],
+          "risk": 0.18657000362873077,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 98,
+          "area_px": 18,
+          "centroid": [
+            415.5,
+            156.33
+          ],
+          "risk": 0.18890999257564545,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 99,
+          "area_px": 24,
+          "centroid": [
+            419.96,
+            104.33
+          ],
+          "risk": 0.18865999579429626,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 100,
+          "area_px": 24,
+          "centroid": [
+            422.71,
+            114.54
+          ],
+          "risk": 0.1880200058221817,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 101,
+          "area_px": 36,
+          "centroid": [
+            425.44,
+            408.92
+          ],
+          "risk": 0.18780000507831573,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 102,
+          "area_px": 38,
+          "centroid": [
+            425.03,
+            203.29
+          ],
+          "risk": 0.19276000559329987,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 103,
+          "area_px": 111,
+          "centroid": [
+            429.77,
+            348.96
+          ],
+          "risk": 0.19177000224590302,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 104,
+          "area_px": 27,
+          "centroid": [
+            428.67,
+            100.56
+          ],
+          "risk": 0.1903800070285797,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 105,
+          "area_px": 20,
+          "centroid": [
+            433.0,
+            193.5
+          ],
+          "risk": 0.18623000383377075,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 106,
+          "area_px": 27,
+          "centroid": [
+            434.7,
+            108.3
+          ],
+          "risk": 0.18681000173091888,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 107,
+          "area_px": 41,
+          "centroid": [
+            437.37,
+            373.44
+          ],
+          "risk": 0.1880899965763092,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 108,
+          "area_px": 19,
+          "centroid": [
+            439.32,
+            198.42
+          ],
+          "risk": 0.18841999769210815,
+          "p_value": null,
+          "certified": false
+        },
+        {
+          "id": 109,
+          "area_px": 178,
+          "centroid": [
+            445.88,
+            29.04
+          ],
+          "risk": 0.27031999826431274,
+          "p_value": null,
+          "certified": false
+        }
+      ],
+      "threshold_info": {
+        "lambda_hat": 0.18536393344402313,
+        "bound_definition": "Track A Conformal Risk Control: E[L(lambda)] <= 0.2"
+      },
+      "risk_statistics": {
+        "min": 0.18402999639511108,
+        "max": 0.27031999826431274,
+        "mean": 0.19205917418003082,
+        "median": 0.18865999579429626
+      },
+      "shift_status": {
+        "tier": "ABSTAIN",
+        "shift_score": 0.23352793994995824
+      },
+      "certification_metadata": {
+        "theoretical_semantics": {
+          "Track_A": "Finite-sample population expectation bound E[L(lambda_hat)] <= alpha on normalized loss L = FD / N.",
+          "Track_B": "False Discovery Rate control E[FDR] <= alpha under Benjamini-Hochberg (PRDS) or Benjamini-Yekutieli (arbitrary dependence).",
+          "Critical_Distinction": "Neither track guarantees per-scene FDP <= alpha. Empirical FDP on a single scene is an uncertified sample statistic."
+        },
+        "calibration_artifact": "data/calibration/d1_calibration.json",
+        "calibration_null_count": 191,
+        "split_disjointness_enforced": true
+      }
+    },
+    "evaluation": {
+      "evaluation_tp": 4,
+      "evaluation_fp": 3,
+      "evaluation_fdp": 0.4286,
+      "evaluation_precision": 0.5714,
+      "d_max": 2.0,
+      "status": "POST_HOC_EVALUATION_ONLY",
+      "disclaimer": "Sample statistic on held-out test scene; not a per-scene certification guarantee."
+    }
+  },
+  "track_b_bh_alpha_010": {
+    "result": {
+      "certificate_status": "EMPTY_SELECTION",
+      "method": "BH",
+      "alpha": 0.5,
+      "N_proposed": 109,
+      "N_selected": 0,
+      "selected_candidate_ids": [],
+      "candidate_results": [
+        {
+          "id": 1,
+          "area_px": 142,
+          "centroid": [
+            21.8,
+            14.45
+          ],
+          "risk": 0.19540999829769135,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 2,
+          "area_px": 20,
+          "centroid": [
+            4.45,
+            35.1
+          ],
+          "risk": 0.1907700002193451,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 3,
+          "area_px": 27,
+          "centroid": [
+            7.48,
+            446.19
+          ],
+          "risk": 0.23965999484062195,
+          "p_value": 0.9166666666666666,
+          "certified": false
+        },
+        {
+          "id": 4,
+          "area_px": 32,
+          "centroid": [
+            9.41,
+            46.16
+          ],
+          "risk": 0.18795999884605408,
+          "p_value": 0.609375,
+          "certified": false
+        },
+        {
+          "id": 5,
+          "area_px": 39,
+          "centroid": [
+            17.23,
+            62.1
+          ],
+          "risk": 0.1877100020647049,
+          "p_value": 0.5833333333333334,
+          "certified": false
+        },
+        {
+          "id": 6,
+          "area_px": 23,
+          "centroid": [
+            18.74,
+            195.83
+          ],
+          "risk": 0.18671999871730804,
+          "p_value": 0.4583333333333333,
+          "certified": false
+        },
+        {
+          "id": 7,
+          "area_px": 26,
+          "centroid": [
+            20.15,
+            104.46
+          ],
+          "risk": 0.19199000298976898,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 8,
+          "area_px": 30,
+          "centroid": [
+            22.1,
+            165.27
+          ],
+          "risk": 0.19561000168323517,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 9,
+          "area_px": 17,
+          "centroid": [
+            24.18,
+            170.41
+          ],
+          "risk": 0.18937000632286072,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 10,
+          "area_px": 63,
+          "centroid": [
+            29.97,
+            75.49
+          ],
+          "risk": 0.1902499943971634,
+          "p_value": 0.6875,
+          "certified": false
+        },
+        {
+          "id": 11,
+          "area_px": 26,
+          "centroid": [
+            30.12,
+            96.12
+          ],
+          "risk": 0.18562999367713928,
+          "p_value": 0.2708333333333333,
+          "certified": false
+        },
+        {
+          "id": 12,
+          "area_px": 34,
+          "centroid": [
+            41.47,
+            187.06
+          ],
+          "risk": 0.19362999498844147,
+          "p_value": 0.7395833333333334,
+          "certified": false
+        },
+        {
+          "id": 13,
+          "area_px": 21,
+          "centroid": [
+            43.1,
+            446.24
+          ],
+          "risk": 0.24305999279022217,
+          "p_value": 0.921875,
+          "certified": false
+        },
+        {
+          "id": 14,
+          "area_px": 18,
+          "centroid": [
+            43.83,
+            16.94
+          ],
+          "risk": 0.185589998960495,
+          "p_value": 0.2604166666666667,
+          "certified": false
+        },
+        {
+          "id": 15,
+          "area_px": 16,
+          "centroid": [
+            46.94,
+            97.62
+          ],
+          "risk": 0.18443000316619873,
+          "p_value": 0.0625,
+          "certified": false
+        },
+        {
+          "id": 16,
+          "area_px": 16,
+          "centroid": [
+            48.44,
+            87.25
+          ],
+          "risk": 0.18402999639511108,
+          "p_value": 0.036458333333333336,
+          "certified": false
+        },
+        {
+          "id": 17,
+          "area_px": 25,
+          "centroid": [
+            49.68,
+            24.28
+          ],
+          "risk": 0.19234000146389008,
+          "p_value": 0.71875,
+          "certified": false
+        },
+        {
+          "id": 18,
+          "area_px": 105,
+          "centroid": [
+            60.52,
+            67.71
+          ],
+          "risk": 0.19261999428272247,
+          "p_value": 0.7291666666666666,
+          "certified": false
+        },
+        {
+          "id": 19,
+          "area_px": 21,
+          "centroid": [
+            55.33,
+            30.33
+          ],
+          "risk": 0.1889999955892563,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 20,
+          "area_px": 16,
+          "centroid": [
+            55.38,
+            41.0
+          ],
+          "risk": 0.18583999574184418,
+          "p_value": 0.3020833333333333,
+          "certified": false
+        },
+        {
+          "id": 21,
+          "area_px": 75,
+          "centroid": [
+            66.31,
+            78.65
+          ],
+          "risk": 0.1920900046825409,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 22,
+          "area_px": 16,
+          "centroid": [
+            59.19,
+            48.81
+          ],
+          "risk": 0.1878100037574768,
+          "p_value": 0.59375,
+          "certified": false
+        },
+        {
+          "id": 23,
+          "area_px": 22,
+          "centroid": [
+            92.73,
+            164.14
+          ],
+          "risk": 0.18887999653816223,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 24,
+          "area_px": 16,
+          "centroid": [
+            104.25,
+            446.12
+          ],
+          "risk": 0.22978000342845917,
+          "p_value": 0.90625,
+          "certified": false
+        },
+        {
+          "id": 25,
+          "area_px": 26,
+          "centroid": [
+            112.65,
+            245.12
+          ],
+          "risk": 0.20081999897956848,
+          "p_value": 0.7708333333333334,
+          "certified": false
+        },
+        {
+          "id": 26,
+          "area_px": 19,
+          "centroid": [
+            120.42,
+            292.74
+          ],
+          "risk": 0.1874600052833557,
+          "p_value": 0.5625,
+          "certified": false
+        },
+        {
+          "id": 27,
+          "area_px": 101,
+          "centroid": [
+            143.86,
+            446.28
+          ],
+          "risk": 0.22989000380039215,
+          "p_value": 0.90625,
+          "certified": false
+        },
+        {
+          "id": 28,
+          "area_px": 16,
+          "centroid": [
+            127.62,
+            307.31
+          ],
+          "risk": 0.18682999908924103,
+          "p_value": 0.4739583333333333,
+          "certified": false
+        },
+        {
+          "id": 29,
+          "area_px": 17,
+          "centroid": [
+            129.88,
+            289.94
+          ],
+          "risk": 0.18622000515460968,
+          "p_value": 0.4010416666666667,
+          "certified": false
+        },
+        {
+          "id": 30,
+          "area_px": 17,
+          "centroid": [
+            132.12,
+            317.18
+          ],
+          "risk": 0.18526999652385712,
+          "p_value": 0.19791666666666666,
+          "certified": false
+        },
+        {
+          "id": 31,
+          "area_px": 17,
+          "centroid": [
+            141.94,
+            315.94
+          ],
+          "risk": 0.18684999644756317,
+          "p_value": 0.4739583333333333,
+          "certified": false
+        },
+        {
+          "id": 32,
+          "area_px": 24,
+          "centroid": [
+            193.71,
+            418.12
+          ],
+          "risk": 0.19043999910354614,
+          "p_value": 0.6927083333333334,
+          "certified": false
+        },
+        {
+          "id": 33,
+          "area_px": 30,
+          "centroid": [
+            198.0,
+            128.87
+          ],
+          "risk": 0.18856999278068542,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 34,
+          "area_px": 40,
+          "centroid": [
+            204.43,
+            141.53
+          ],
+          "risk": 0.18814000487327576,
+          "p_value": 0.625,
+          "certified": false
+        },
+        {
+          "id": 35,
+          "area_px": 23,
+          "centroid": [
+            218.0,
+            184.35
+          ],
+          "risk": 0.18738000094890594,
+          "p_value": 0.5416666666666666,
+          "certified": false
+        },
+        {
+          "id": 36,
+          "area_px": 28,
+          "centroid": [
+            220.82,
+            86.54
+          ],
+          "risk": 0.1917400062084198,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 37,
+          "area_px": 20,
+          "centroid": [
+            228.25,
+            80.55
+          ],
+          "risk": 0.18796999752521515,
+          "p_value": 0.609375,
+          "certified": false
+        },
+        {
+          "id": 38,
+          "area_px": 29,
+          "centroid": [
+            230.83,
+            109.55
+          ],
+          "risk": 0.18846000730991364,
+          "p_value": 0.640625,
+          "certified": false
+        },
+        {
+          "id": 39,
+          "area_px": 18,
+          "centroid": [
+            232.56,
+            394.06
+          ],
+          "risk": 0.1865299940109253,
+          "p_value": 0.4322916666666667,
+          "certified": false
+        },
+        {
+          "id": 40,
+          "area_px": 25,
+          "centroid": [
+            237.12,
+            76.24
+          ],
+          "risk": 0.19119000434875488,
+          "p_value": 0.703125,
+          "certified": false
+        },
+        {
+          "id": 41,
+          "area_px": 22,
+          "centroid": [
+            248.77,
+            75.68
+          ],
+          "risk": 0.18636000156402588,
+          "p_value": 0.4114583333333333,
+          "certified": false
+        },
+        {
+          "id": 42,
+          "area_px": 100,
+          "centroid": [
+            274.19,
+            67.15
+          ],
+          "risk": 0.18835000693798065,
+          "p_value": 0.640625,
+          "certified": false
+        },
+        {
+          "id": 43,
+          "area_px": 16,
+          "centroid": [
+            260.75,
+            99.5
+          ],
+          "risk": 0.1846500039100647,
+          "p_value": 0.078125,
+          "certified": false
+        },
+        {
+          "id": 44,
+          "area_px": 176,
+          "centroid": [
+            277.27,
+            195.49
+          ],
+          "risk": 0.19235000014305115,
+          "p_value": 0.71875,
+          "certified": false
+        },
+        {
+          "id": 45,
+          "area_px": 17,
+          "centroid": [
+            283.41,
+            133.94
+          ],
+          "risk": 0.1861400008201599,
+          "p_value": 0.3802083333333333,
+          "certified": false
+        },
+        {
+          "id": 46,
+          "area_px": 21,
+          "centroid": [
+            283.29,
+            425.57
+          ],
+          "risk": 0.18589000403881073,
+          "p_value": 0.3072916666666667,
+          "certified": false
+        },
+        {
+          "id": 47,
+          "area_px": 34,
+          "centroid": [
+            293.85,
+            230.18
+          ],
+          "risk": 0.18884000182151794,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 48,
+          "area_px": 16,
+          "centroid": [
+            292.94,
+            364.56
+          ],
+          "risk": 0.1879200041294098,
+          "p_value": 0.6041666666666666,
+          "certified": false
+        },
+        {
+          "id": 49,
+          "area_px": 53,
+          "centroid": [
+            301.21,
+            49.94
+          ],
+          "risk": 0.18695999681949615,
+          "p_value": 0.4791666666666667,
+          "certified": false
+        },
+        {
+          "id": 50,
+          "area_px": 25,
+          "centroid": [
+            299.28,
+            82.16
+          ],
+          "risk": 0.1877799928188324,
+          "p_value": 0.5885416666666666,
+          "certified": false
+        },
+        {
+          "id": 51,
+          "area_px": 21,
+          "centroid": [
+            297.43,
+            168.95
+          ],
+          "risk": 0.18939000368118286,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 52,
+          "area_px": 44,
+          "centroid": [
+            311.39,
+            162.61
+          ],
+          "risk": 0.18855999410152435,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 53,
+          "area_px": 41,
+          "centroid": [
+            305.95,
+            353.9
+          ],
+          "risk": 0.1925400048494339,
+          "p_value": 0.7291666666666666,
+          "certified": false
+        },
+        {
+          "id": 54,
+          "area_px": 18,
+          "centroid": [
+            308.83,
+            398.39
+          ],
+          "risk": 0.18731999397277832,
+          "p_value": 0.5364583333333334,
+          "certified": false
+        },
+        {
+          "id": 55,
+          "area_px": 34,
+          "centroid": [
+            310.21,
+            116.41
+          ],
+          "risk": 0.18637999892234802,
+          "p_value": 0.4166666666666667,
+          "certified": false
+        },
+        {
+          "id": 56,
+          "area_px": 73,
+          "centroid": [
+            310.6,
+            263.04
+          ],
+          "risk": 0.20569999516010284,
+          "p_value": 0.7864583333333334,
+          "certified": false
+        },
+        {
+          "id": 57,
+          "area_px": 83,
+          "centroid": [
+            318.29,
+            277.7
+          ],
+          "risk": 0.18937000632286072,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 58,
+          "area_px": 20,
+          "centroid": [
+            314.7,
+            243.6
+          ],
+          "risk": 0.18602000176906586,
+          "p_value": 0.359375,
+          "certified": false
+        },
+        {
+          "id": 59,
+          "area_px": 92,
+          "centroid": [
+            325.5,
+            36.34
+          ],
+          "risk": 0.18873000144958496,
+          "p_value": 0.6614583333333334,
+          "certified": false
+        },
+        {
+          "id": 60,
+          "area_px": 30,
+          "centroid": [
+            318.47,
+            72.7
+          ],
+          "risk": 0.18591000139713287,
+          "p_value": 0.3125,
+          "certified": false
+        },
+        {
+          "id": 61,
+          "area_px": 78,
+          "centroid": [
+            324.58,
+            291.64
+          ],
+          "risk": 0.18876999616622925,
+          "p_value": 0.6614583333333334,
+          "certified": false
+        },
+        {
+          "id": 62,
+          "area_px": 84,
+          "centroid": [
+            327.48,
+            211.24
+          ],
+          "risk": 0.19101999700069427,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 63,
+          "area_px": 56,
+          "centroid": [
+            328.14,
+            194.38
+          ],
+          "risk": 0.1915699988603592,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 64,
+          "area_px": 70,
+          "centroid": [
+            330.94,
+            302.57
+          ],
+          "risk": 0.19031000137329102,
+          "p_value": 0.6875,
+          "certified": false
+        },
+        {
+          "id": 65,
+          "area_px": 19,
+          "centroid": [
+            330.47,
+            65.16
+          ],
+          "risk": 0.18459999561309814,
+          "p_value": 0.078125,
+          "certified": false
+        },
+        {
+          "id": 66,
+          "area_px": 51,
+          "centroid": [
+            334.35,
+            163.35
+          ],
+          "risk": 0.18633000552654266,
+          "p_value": 0.4114583333333333,
+          "certified": false
+        },
+        {
+          "id": 67,
+          "area_px": 18,
+          "centroid": [
+            331.89,
+            153.94
+          ],
+          "risk": 0.18606999516487122,
+          "p_value": 0.3697916666666667,
+          "certified": false
+        },
+        {
+          "id": 68,
+          "area_px": 48,
+          "centroid": [
+            335.42,
+            413.38
+          ],
+          "risk": 0.20000000298023224,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 69,
+          "area_px": 115,
+          "centroid": [
+            345.57,
+            239.1
+          ],
+          "risk": 0.19203999638557434,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 70,
+          "area_px": 22,
+          "centroid": [
+            339.68,
+            189.32
+          ],
+          "risk": 0.18708999454975128,
+          "p_value": 0.4947916666666667,
+          "certified": false
+        },
+        {
+          "id": 71,
+          "area_px": 124,
+          "centroid": [
+            354.56,
+            255.99
+          ],
+          "risk": 0.1911199986934662,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 72,
+          "area_px": 62,
+          "centroid": [
+            346.82,
+            99.02
+          ],
+          "risk": 0.20232999324798584,
+          "p_value": 0.7708333333333334,
+          "certified": false
+        },
+        {
+          "id": 73,
+          "area_px": 18,
+          "centroid": [
+            348.39,
+            56.11
+          ],
+          "risk": 0.18557000160217285,
+          "p_value": 0.2604166666666667,
+          "certified": false
+        },
+        {
+          "id": 74,
+          "area_px": 18,
+          "centroid": [
+            344.78,
+            248.72
+          ],
+          "risk": 0.18807999789714813,
+          "p_value": 0.6197916666666666,
+          "certified": false
+        },
+        {
+          "id": 75,
+          "area_px": 39,
+          "centroid": [
+            351.44,
+            334.51
+          ],
+          "risk": 0.18910999596118927,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 76,
+          "area_px": 27,
+          "centroid": [
+            345.78,
+            420.78
+          ],
+          "risk": 0.18855999410152435,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 77,
+          "area_px": 77,
+          "centroid": [
+            352.3,
+            112.49
+          ],
+          "risk": 0.1967799961566925,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 78,
+          "area_px": 34,
+          "centroid": [
+            353.26,
+            435.06
+          ],
+          "risk": 0.18817999958992004,
+          "p_value": 0.625,
+          "certified": false
+        },
+        {
+          "id": 79,
+          "area_px": 16,
+          "centroid": [
+            357.06,
+            198.0
+          ],
+          "risk": 0.18501999974250793,
+          "p_value": 0.16145833333333334,
+          "certified": false
+        },
+        {
+          "id": 80,
+          "area_px": 55,
+          "centroid": [
+            357.76,
+            123.09
+          ],
+          "risk": 0.19965000450611115,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 81,
+          "area_px": 64,
+          "centroid": [
+            371.97,
+            145.2
+          ],
+          "risk": 0.18875999748706818,
+          "p_value": 0.6614583333333334,
+          "certified": false
+        },
+        {
+          "id": 82,
+          "area_px": 104,
+          "centroid": [
+            372.55,
+            230.12
+          ],
+          "risk": 0.19457000494003296,
+          "p_value": 0.75,
+          "certified": false
+        },
+        {
+          "id": 83,
+          "area_px": 22,
+          "centroid": [
+            376.45,
+            173.14
+          ],
+          "risk": 0.18535999953746796,
+          "p_value": 0.20833333333333334,
+          "certified": false
+        },
+        {
+          "id": 84,
+          "area_px": 77,
+          "centroid": [
+            382.52,
+            122.3
+          ],
+          "risk": 0.19979000091552734,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 85,
+          "area_px": 65,
+          "centroid": [
+            387.89,
+            182.85
+          ],
+          "risk": 0.18854999542236328,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 86,
+          "area_px": 28,
+          "centroid": [
+            380.79,
+            409.68
+          ],
+          "risk": 0.1991100013256073,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 87,
+          "area_px": 100,
+          "centroid": [
+            385.91,
+            258.47
+          ],
+          "risk": 0.1977899968624115,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 88,
+          "area_px": 77,
+          "centroid": [
+            390.49,
+            423.55
+          ],
+          "risk": 0.18978999555110931,
+          "p_value": 0.6822916666666666,
+          "certified": false
+        },
+        {
+          "id": 89,
+          "area_px": 42,
+          "centroid": [
+            393.07,
+            402.48
+          ],
+          "risk": 0.19141000509262085,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 90,
+          "area_px": 80,
+          "centroid": [
+            396.91,
+            370.09
+          ],
+          "risk": 0.18956999480724335,
+          "p_value": 0.6770833333333334,
+          "certified": false
+        },
+        {
+          "id": 91,
+          "area_px": 16,
+          "centroid": [
+            394.62,
+            171.5
+          ],
+          "risk": 0.18592000007629395,
+          "p_value": 0.3125,
+          "certified": false
+        },
+        {
+          "id": 92,
+          "area_px": 25,
+          "centroid": [
+            401.6,
+            357.52
+          ],
+          "risk": 0.19302000105381012,
+          "p_value": 0.7395833333333334,
+          "certified": false
+        },
+        {
+          "id": 93,
+          "area_px": 19,
+          "centroid": [
+            404.11,
+            201.89
+          ],
+          "risk": 0.1862799972295761,
+          "p_value": 0.4114583333333333,
+          "certified": false
+        },
+        {
+          "id": 94,
+          "area_px": 53,
+          "centroid": [
+            406.75,
+            383.72
+          ],
+          "risk": 0.19099999964237213,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 95,
+          "area_px": 68,
+          "centroid": [
+            412.47,
+            393.1
+          ],
+          "risk": 0.1882600039243698,
+          "p_value": 0.6302083333333334,
+          "certified": false
+        },
+        {
+          "id": 96,
+          "area_px": 52,
+          "centroid": [
+            410.46,
+            170.81
+          ],
+          "risk": 0.18922999501228333,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 97,
+          "area_px": 22,
+          "centroid": [
+            407.05,
+            419.14
+          ],
+          "risk": 0.18657000362873077,
+          "p_value": 0.4375,
+          "certified": false
+        },
+        {
+          "id": 98,
+          "area_px": 18,
+          "centroid": [
+            415.5,
+            156.33
+          ],
+          "risk": 0.18890999257564545,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 99,
+          "area_px": 24,
+          "centroid": [
+            419.96,
+            104.33
+          ],
+          "risk": 0.18865999579429626,
+          "p_value": 0.6510416666666666,
+          "certified": false
+        },
+        {
+          "id": 100,
+          "area_px": 24,
+          "centroid": [
+            422.71,
+            114.54
+          ],
+          "risk": 0.1880200058221817,
+          "p_value": 0.6145833333333334,
+          "certified": false
+        },
+        {
+          "id": 101,
+          "area_px": 36,
+          "centroid": [
+            425.44,
+            408.92
+          ],
+          "risk": 0.18780000507831573,
+          "p_value": 0.59375,
+          "certified": false
+        },
+        {
+          "id": 102,
+          "area_px": 38,
+          "centroid": [
+            425.03,
+            203.29
+          ],
+          "risk": 0.19276000559329987,
+          "p_value": 0.7291666666666666,
+          "certified": false
+        },
+        {
+          "id": 103,
+          "area_px": 111,
+          "centroid": [
+            429.77,
+            348.96
+          ],
+          "risk": 0.19177000224590302,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 104,
+          "area_px": 27,
+          "centroid": [
+            428.67,
+            100.56
+          ],
+          "risk": 0.1903800070285797,
+          "p_value": 0.6927083333333334,
+          "certified": false
+        },
+        {
+          "id": 105,
+          "area_px": 20,
+          "centroid": [
+            433.0,
+            193.5
+          ],
+          "risk": 0.18623000383377075,
+          "p_value": 0.4010416666666667,
+          "certified": false
+        },
+        {
+          "id": 106,
+          "area_px": 27,
+          "centroid": [
+            434.7,
+            108.3
+          ],
+          "risk": 0.18681000173091888,
+          "p_value": 0.4739583333333333,
+          "certified": false
+        },
+        {
+          "id": 107,
+          "area_px": 41,
+          "centroid": [
+            437.37,
+            373.44
+          ],
+          "risk": 0.1880899965763092,
+          "p_value": 0.6197916666666666,
+          "certified": false
+        },
+        {
+          "id": 108,
+          "area_px": 19,
+          "centroid": [
+            439.32,
+            198.42
+          ],
+          "risk": 0.18841999769210815,
+          "p_value": 0.640625,
+          "certified": false
+        },
+        {
+          "id": 109,
+          "area_px": 178,
+          "centroid": [
+            445.88,
+            29.04
+          ],
+          "risk": 0.27031999826431274,
+          "p_value": 0.9791666666666666,
+          "certified": false
+        }
+      ],
+      "threshold_info": {
+        "fdr_guarantee": "Track B BH: E[FDR] <= 0.5",
+        "null_sample_size": 191
+      },
+      "risk_statistics": {
+        "min": 0.18402999639511108,
+        "max": 0.27031999826431274,
+        "mean": 0.19205917418003082,
+        "median": 0.18865999579429626
+      },
+      "shift_status": {
+        "tier": "ABSTAIN",
+        "shift_score": 0.23352793994995824
+      },
+      "certification_metadata": {
+        "theoretical_semantics": {
+          "Track_A": "Finite-sample population expectation bound E[L(lambda_hat)] <= alpha on normalized loss L = FD / N.",
+          "Track_B": "False Discovery Rate control E[FDR] <= alpha under Benjamini-Hochberg (PRDS) or Benjamini-Yekutieli (arbitrary dependence).",
+          "Critical_Distinction": "Neither track guarantees per-scene FDP <= alpha. Empirical FDP on a single scene is an uncertified sample statistic."
+        },
+        "calibration_artifact": "data/calibration/d1_calibration.json",
+        "calibration_null_count": 191,
+        "split_disjointness_enforced": true
+      }
+    },
+    "evaluation": {
+      "evaluation_tp": 0,
+      "evaluation_fp": 0,
+      "evaluation_fdp": 0.0,
+      "evaluation_precision": 0.0,
+      "d_max": 2.0,
+      "note": "Empty selection; empirical FDP is 0.0 by definition."
+    }
+  },
+  "track_b_by_alpha_010": {
+    "result": {
+      "certificate_status": "EMPTY_SELECTION",
+      "method": "BY",
+      "alpha": 0.1,
+      "N_proposed": 109,
+      "N_selected": 0,
+      "selected_candidate_ids": [],
+      "candidate_results": [
+        {
+          "id": 1,
+          "area_px": 142,
+          "centroid": [
+            21.8,
+            14.45
+          ],
+          "risk": 0.19540999829769135,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 2,
+          "area_px": 20,
+          "centroid": [
+            4.45,
+            35.1
+          ],
+          "risk": 0.1907700002193451,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 3,
+          "area_px": 27,
+          "centroid": [
+            7.48,
+            446.19
+          ],
+          "risk": 0.23965999484062195,
+          "p_value": 0.9166666666666666,
+          "certified": false
+        },
+        {
+          "id": 4,
+          "area_px": 32,
+          "centroid": [
+            9.41,
+            46.16
+          ],
+          "risk": 0.18795999884605408,
+          "p_value": 0.609375,
+          "certified": false
+        },
+        {
+          "id": 5,
+          "area_px": 39,
+          "centroid": [
+            17.23,
+            62.1
+          ],
+          "risk": 0.1877100020647049,
+          "p_value": 0.5833333333333334,
+          "certified": false
+        },
+        {
+          "id": 6,
+          "area_px": 23,
+          "centroid": [
+            18.74,
+            195.83
+          ],
+          "risk": 0.18671999871730804,
+          "p_value": 0.4583333333333333,
+          "certified": false
+        },
+        {
+          "id": 7,
+          "area_px": 26,
+          "centroid": [
+            20.15,
+            104.46
+          ],
+          "risk": 0.19199000298976898,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 8,
+          "area_px": 30,
+          "centroid": [
+            22.1,
+            165.27
+          ],
+          "risk": 0.19561000168323517,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 9,
+          "area_px": 17,
+          "centroid": [
+            24.18,
+            170.41
+          ],
+          "risk": 0.18937000632286072,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 10,
+          "area_px": 63,
+          "centroid": [
+            29.97,
+            75.49
+          ],
+          "risk": 0.1902499943971634,
+          "p_value": 0.6875,
+          "certified": false
+        },
+        {
+          "id": 11,
+          "area_px": 26,
+          "centroid": [
+            30.12,
+            96.12
+          ],
+          "risk": 0.18562999367713928,
+          "p_value": 0.2708333333333333,
+          "certified": false
+        },
+        {
+          "id": 12,
+          "area_px": 34,
+          "centroid": [
+            41.47,
+            187.06
+          ],
+          "risk": 0.19362999498844147,
+          "p_value": 0.7395833333333334,
+          "certified": false
+        },
+        {
+          "id": 13,
+          "area_px": 21,
+          "centroid": [
+            43.1,
+            446.24
+          ],
+          "risk": 0.24305999279022217,
+          "p_value": 0.921875,
+          "certified": false
+        },
+        {
+          "id": 14,
+          "area_px": 18,
+          "centroid": [
+            43.83,
+            16.94
+          ],
+          "risk": 0.185589998960495,
+          "p_value": 0.2604166666666667,
+          "certified": false
+        },
+        {
+          "id": 15,
+          "area_px": 16,
+          "centroid": [
+            46.94,
+            97.62
+          ],
+          "risk": 0.18443000316619873,
+          "p_value": 0.0625,
+          "certified": false
+        },
+        {
+          "id": 16,
+          "area_px": 16,
+          "centroid": [
+            48.44,
+            87.25
+          ],
+          "risk": 0.18402999639511108,
+          "p_value": 0.036458333333333336,
+          "certified": false
+        },
+        {
+          "id": 17,
+          "area_px": 25,
+          "centroid": [
+            49.68,
+            24.28
+          ],
+          "risk": 0.19234000146389008,
+          "p_value": 0.71875,
+          "certified": false
+        },
+        {
+          "id": 18,
+          "area_px": 105,
+          "centroid": [
+            60.52,
+            67.71
+          ],
+          "risk": 0.19261999428272247,
+          "p_value": 0.7291666666666666,
+          "certified": false
+        },
+        {
+          "id": 19,
+          "area_px": 21,
+          "centroid": [
+            55.33,
+            30.33
+          ],
+          "risk": 0.1889999955892563,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 20,
+          "area_px": 16,
+          "centroid": [
+            55.38,
+            41.0
+          ],
+          "risk": 0.18583999574184418,
+          "p_value": 0.3020833333333333,
+          "certified": false
+        },
+        {
+          "id": 21,
+          "area_px": 75,
+          "centroid": [
+            66.31,
+            78.65
+          ],
+          "risk": 0.1920900046825409,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 22,
+          "area_px": 16,
+          "centroid": [
+            59.19,
+            48.81
+          ],
+          "risk": 0.1878100037574768,
+          "p_value": 0.59375,
+          "certified": false
+        },
+        {
+          "id": 23,
+          "area_px": 22,
+          "centroid": [
+            92.73,
+            164.14
+          ],
+          "risk": 0.18887999653816223,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 24,
+          "area_px": 16,
+          "centroid": [
+            104.25,
+            446.12
+          ],
+          "risk": 0.22978000342845917,
+          "p_value": 0.90625,
+          "certified": false
+        },
+        {
+          "id": 25,
+          "area_px": 26,
+          "centroid": [
+            112.65,
+            245.12
+          ],
+          "risk": 0.20081999897956848,
+          "p_value": 0.7708333333333334,
+          "certified": false
+        },
+        {
+          "id": 26,
+          "area_px": 19,
+          "centroid": [
+            120.42,
+            292.74
+          ],
+          "risk": 0.1874600052833557,
+          "p_value": 0.5625,
+          "certified": false
+        },
+        {
+          "id": 27,
+          "area_px": 101,
+          "centroid": [
+            143.86,
+            446.28
+          ],
+          "risk": 0.22989000380039215,
+          "p_value": 0.90625,
+          "certified": false
+        },
+        {
+          "id": 28,
+          "area_px": 16,
+          "centroid": [
+            127.62,
+            307.31
+          ],
+          "risk": 0.18682999908924103,
+          "p_value": 0.4739583333333333,
+          "certified": false
+        },
+        {
+          "id": 29,
+          "area_px": 17,
+          "centroid": [
+            129.88,
+            289.94
+          ],
+          "risk": 0.18622000515460968,
+          "p_value": 0.4010416666666667,
+          "certified": false
+        },
+        {
+          "id": 30,
+          "area_px": 17,
+          "centroid": [
+            132.12,
+            317.18
+          ],
+          "risk": 0.18526999652385712,
+          "p_value": 0.19791666666666666,
+          "certified": false
+        },
+        {
+          "id": 31,
+          "area_px": 17,
+          "centroid": [
+            141.94,
+            315.94
+          ],
+          "risk": 0.18684999644756317,
+          "p_value": 0.4739583333333333,
+          "certified": false
+        },
+        {
+          "id": 32,
+          "area_px": 24,
+          "centroid": [
+            193.71,
+            418.12
+          ],
+          "risk": 0.19043999910354614,
+          "p_value": 0.6927083333333334,
+          "certified": false
+        },
+        {
+          "id": 33,
+          "area_px": 30,
+          "centroid": [
+            198.0,
+            128.87
+          ],
+          "risk": 0.18856999278068542,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 34,
+          "area_px": 40,
+          "centroid": [
+            204.43,
+            141.53
+          ],
+          "risk": 0.18814000487327576,
+          "p_value": 0.625,
+          "certified": false
+        },
+        {
+          "id": 35,
+          "area_px": 23,
+          "centroid": [
+            218.0,
+            184.35
+          ],
+          "risk": 0.18738000094890594,
+          "p_value": 0.5416666666666666,
+          "certified": false
+        },
+        {
+          "id": 36,
+          "area_px": 28,
+          "centroid": [
+            220.82,
+            86.54
+          ],
+          "risk": 0.1917400062084198,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 37,
+          "area_px": 20,
+          "centroid": [
+            228.25,
+            80.55
+          ],
+          "risk": 0.18796999752521515,
+          "p_value": 0.609375,
+          "certified": false
+        },
+        {
+          "id": 38,
+          "area_px": 29,
+          "centroid": [
+            230.83,
+            109.55
+          ],
+          "risk": 0.18846000730991364,
+          "p_value": 0.640625,
+          "certified": false
+        },
+        {
+          "id": 39,
+          "area_px": 18,
+          "centroid": [
+            232.56,
+            394.06
+          ],
+          "risk": 0.1865299940109253,
+          "p_value": 0.4322916666666667,
+          "certified": false
+        },
+        {
+          "id": 40,
+          "area_px": 25,
+          "centroid": [
+            237.12,
+            76.24
+          ],
+          "risk": 0.19119000434875488,
+          "p_value": 0.703125,
+          "certified": false
+        },
+        {
+          "id": 41,
+          "area_px": 22,
+          "centroid": [
+            248.77,
+            75.68
+          ],
+          "risk": 0.18636000156402588,
+          "p_value": 0.4114583333333333,
+          "certified": false
+        },
+        {
+          "id": 42,
+          "area_px": 100,
+          "centroid": [
+            274.19,
+            67.15
+          ],
+          "risk": 0.18835000693798065,
+          "p_value": 0.640625,
+          "certified": false
+        },
+        {
+          "id": 43,
+          "area_px": 16,
+          "centroid": [
+            260.75,
+            99.5
+          ],
+          "risk": 0.1846500039100647,
+          "p_value": 0.078125,
+          "certified": false
+        },
+        {
+          "id": 44,
+          "area_px": 176,
+          "centroid": [
+            277.27,
+            195.49
+          ],
+          "risk": 0.19235000014305115,
+          "p_value": 0.71875,
+          "certified": false
+        },
+        {
+          "id": 45,
+          "area_px": 17,
+          "centroid": [
+            283.41,
+            133.94
+          ],
+          "risk": 0.1861400008201599,
+          "p_value": 0.3802083333333333,
+          "certified": false
+        },
+        {
+          "id": 46,
+          "area_px": 21,
+          "centroid": [
+            283.29,
+            425.57
+          ],
+          "risk": 0.18589000403881073,
+          "p_value": 0.3072916666666667,
+          "certified": false
+        },
+        {
+          "id": 47,
+          "area_px": 34,
+          "centroid": [
+            293.85,
+            230.18
+          ],
+          "risk": 0.18884000182151794,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 48,
+          "area_px": 16,
+          "centroid": [
+            292.94,
+            364.56
+          ],
+          "risk": 0.1879200041294098,
+          "p_value": 0.6041666666666666,
+          "certified": false
+        },
+        {
+          "id": 49,
+          "area_px": 53,
+          "centroid": [
+            301.21,
+            49.94
+          ],
+          "risk": 0.18695999681949615,
+          "p_value": 0.4791666666666667,
+          "certified": false
+        },
+        {
+          "id": 50,
+          "area_px": 25,
+          "centroid": [
+            299.28,
+            82.16
+          ],
+          "risk": 0.1877799928188324,
+          "p_value": 0.5885416666666666,
+          "certified": false
+        },
+        {
+          "id": 51,
+          "area_px": 21,
+          "centroid": [
+            297.43,
+            168.95
+          ],
+          "risk": 0.18939000368118286,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 52,
+          "area_px": 44,
+          "centroid": [
+            311.39,
+            162.61
+          ],
+          "risk": 0.18855999410152435,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 53,
+          "area_px": 41,
+          "centroid": [
+            305.95,
+            353.9
+          ],
+          "risk": 0.1925400048494339,
+          "p_value": 0.7291666666666666,
+          "certified": false
+        },
+        {
+          "id": 54,
+          "area_px": 18,
+          "centroid": [
+            308.83,
+            398.39
+          ],
+          "risk": 0.18731999397277832,
+          "p_value": 0.5364583333333334,
+          "certified": false
+        },
+        {
+          "id": 55,
+          "area_px": 34,
+          "centroid": [
+            310.21,
+            116.41
+          ],
+          "risk": 0.18637999892234802,
+          "p_value": 0.4166666666666667,
+          "certified": false
+        },
+        {
+          "id": 56,
+          "area_px": 73,
+          "centroid": [
+            310.6,
+            263.04
+          ],
+          "risk": 0.20569999516010284,
+          "p_value": 0.7864583333333334,
+          "certified": false
+        },
+        {
+          "id": 57,
+          "area_px": 83,
+          "centroid": [
+            318.29,
+            277.7
+          ],
+          "risk": 0.18937000632286072,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 58,
+          "area_px": 20,
+          "centroid": [
+            314.7,
+            243.6
+          ],
+          "risk": 0.18602000176906586,
+          "p_value": 0.359375,
+          "certified": false
+        },
+        {
+          "id": 59,
+          "area_px": 92,
+          "centroid": [
+            325.5,
+            36.34
+          ],
+          "risk": 0.18873000144958496,
+          "p_value": 0.6614583333333334,
+          "certified": false
+        },
+        {
+          "id": 60,
+          "area_px": 30,
+          "centroid": [
+            318.47,
+            72.7
+          ],
+          "risk": 0.18591000139713287,
+          "p_value": 0.3125,
+          "certified": false
+        },
+        {
+          "id": 61,
+          "area_px": 78,
+          "centroid": [
+            324.58,
+            291.64
+          ],
+          "risk": 0.18876999616622925,
+          "p_value": 0.6614583333333334,
+          "certified": false
+        },
+        {
+          "id": 62,
+          "area_px": 84,
+          "centroid": [
+            327.48,
+            211.24
+          ],
+          "risk": 0.19101999700069427,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 63,
+          "area_px": 56,
+          "centroid": [
+            328.14,
+            194.38
+          ],
+          "risk": 0.1915699988603592,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 64,
+          "area_px": 70,
+          "centroid": [
+            330.94,
+            302.57
+          ],
+          "risk": 0.19031000137329102,
+          "p_value": 0.6875,
+          "certified": false
+        },
+        {
+          "id": 65,
+          "area_px": 19,
+          "centroid": [
+            330.47,
+            65.16
+          ],
+          "risk": 0.18459999561309814,
+          "p_value": 0.078125,
+          "certified": false
+        },
+        {
+          "id": 66,
+          "area_px": 51,
+          "centroid": [
+            334.35,
+            163.35
+          ],
+          "risk": 0.18633000552654266,
+          "p_value": 0.4114583333333333,
+          "certified": false
+        },
+        {
+          "id": 67,
+          "area_px": 18,
+          "centroid": [
+            331.89,
+            153.94
+          ],
+          "risk": 0.18606999516487122,
+          "p_value": 0.3697916666666667,
+          "certified": false
+        },
+        {
+          "id": 68,
+          "area_px": 48,
+          "centroid": [
+            335.42,
+            413.38
+          ],
+          "risk": 0.20000000298023224,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 69,
+          "area_px": 115,
+          "centroid": [
+            345.57,
+            239.1
+          ],
+          "risk": 0.19203999638557434,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 70,
+          "area_px": 22,
+          "centroid": [
+            339.68,
+            189.32
+          ],
+          "risk": 0.18708999454975128,
+          "p_value": 0.4947916666666667,
+          "certified": false
+        },
+        {
+          "id": 71,
+          "area_px": 124,
+          "centroid": [
+            354.56,
+            255.99
+          ],
+          "risk": 0.1911199986934662,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 72,
+          "area_px": 62,
+          "centroid": [
+            346.82,
+            99.02
+          ],
+          "risk": 0.20232999324798584,
+          "p_value": 0.7708333333333334,
+          "certified": false
+        },
+        {
+          "id": 73,
+          "area_px": 18,
+          "centroid": [
+            348.39,
+            56.11
+          ],
+          "risk": 0.18557000160217285,
+          "p_value": 0.2604166666666667,
+          "certified": false
+        },
+        {
+          "id": 74,
+          "area_px": 18,
+          "centroid": [
+            344.78,
+            248.72
+          ],
+          "risk": 0.18807999789714813,
+          "p_value": 0.6197916666666666,
+          "certified": false
+        },
+        {
+          "id": 75,
+          "area_px": 39,
+          "centroid": [
+            351.44,
+            334.51
+          ],
+          "risk": 0.18910999596118927,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 76,
+          "area_px": 27,
+          "centroid": [
+            345.78,
+            420.78
+          ],
+          "risk": 0.18855999410152435,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 77,
+          "area_px": 77,
+          "centroid": [
+            352.3,
+            112.49
+          ],
+          "risk": 0.1967799961566925,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 78,
+          "area_px": 34,
+          "centroid": [
+            353.26,
+            435.06
+          ],
+          "risk": 0.18817999958992004,
+          "p_value": 0.625,
+          "certified": false
+        },
+        {
+          "id": 79,
+          "area_px": 16,
+          "centroid": [
+            357.06,
+            198.0
+          ],
+          "risk": 0.18501999974250793,
+          "p_value": 0.16145833333333334,
+          "certified": false
+        },
+        {
+          "id": 80,
+          "area_px": 55,
+          "centroid": [
+            357.76,
+            123.09
+          ],
+          "risk": 0.19965000450611115,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 81,
+          "area_px": 64,
+          "centroid": [
+            371.97,
+            145.2
+          ],
+          "risk": 0.18875999748706818,
+          "p_value": 0.6614583333333334,
+          "certified": false
+        },
+        {
+          "id": 82,
+          "area_px": 104,
+          "centroid": [
+            372.55,
+            230.12
+          ],
+          "risk": 0.19457000494003296,
+          "p_value": 0.75,
+          "certified": false
+        },
+        {
+          "id": 83,
+          "area_px": 22,
+          "centroid": [
+            376.45,
+            173.14
+          ],
+          "risk": 0.18535999953746796,
+          "p_value": 0.20833333333333334,
+          "certified": false
+        },
+        {
+          "id": 84,
+          "area_px": 77,
+          "centroid": [
+            382.52,
+            122.3
+          ],
+          "risk": 0.19979000091552734,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 85,
+          "area_px": 65,
+          "centroid": [
+            387.89,
+            182.85
+          ],
+          "risk": 0.18854999542236328,
+          "p_value": 0.6458333333333334,
+          "certified": false
+        },
+        {
+          "id": 86,
+          "area_px": 28,
+          "centroid": [
+            380.79,
+            409.68
+          ],
+          "risk": 0.1991100013256073,
+          "p_value": 0.765625,
+          "certified": false
+        },
+        {
+          "id": 87,
+          "area_px": 100,
+          "centroid": [
+            385.91,
+            258.47
+          ],
+          "risk": 0.1977899968624115,
+          "p_value": 0.7604166666666666,
+          "certified": false
+        },
+        {
+          "id": 88,
+          "area_px": 77,
+          "centroid": [
+            390.49,
+            423.55
+          ],
+          "risk": 0.18978999555110931,
+          "p_value": 0.6822916666666666,
+          "certified": false
+        },
+        {
+          "id": 89,
+          "area_px": 42,
+          "centroid": [
+            393.07,
+            402.48
+          ],
+          "risk": 0.19141000509262085,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 90,
+          "area_px": 80,
+          "centroid": [
+            396.91,
+            370.09
+          ],
+          "risk": 0.18956999480724335,
+          "p_value": 0.6770833333333334,
+          "certified": false
+        },
+        {
+          "id": 91,
+          "area_px": 16,
+          "centroid": [
+            394.62,
+            171.5
+          ],
+          "risk": 0.18592000007629395,
+          "p_value": 0.3125,
+          "certified": false
+        },
+        {
+          "id": 92,
+          "area_px": 25,
+          "centroid": [
+            401.6,
+            357.52
+          ],
+          "risk": 0.19302000105381012,
+          "p_value": 0.7395833333333334,
+          "certified": false
+        },
+        {
+          "id": 93,
+          "area_px": 19,
+          "centroid": [
+            404.11,
+            201.89
+          ],
+          "risk": 0.1862799972295761,
+          "p_value": 0.4114583333333333,
+          "certified": false
+        },
+        {
+          "id": 94,
+          "area_px": 53,
+          "centroid": [
+            406.75,
+            383.72
+          ],
+          "risk": 0.19099999964237213,
+          "p_value": 0.6979166666666666,
+          "certified": false
+        },
+        {
+          "id": 95,
+          "area_px": 68,
+          "centroid": [
+            412.47,
+            393.1
+          ],
+          "risk": 0.1882600039243698,
+          "p_value": 0.6302083333333334,
+          "certified": false
+        },
+        {
+          "id": 96,
+          "area_px": 52,
+          "centroid": [
+            410.46,
+            170.81
+          ],
+          "risk": 0.18922999501228333,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 97,
+          "area_px": 22,
+          "centroid": [
+            407.05,
+            419.14
+          ],
+          "risk": 0.18657000362873077,
+          "p_value": 0.4375,
+          "certified": false
+        },
+        {
+          "id": 98,
+          "area_px": 18,
+          "centroid": [
+            415.5,
+            156.33
+          ],
+          "risk": 0.18890999257564545,
+          "p_value": 0.6666666666666666,
+          "certified": false
+        },
+        {
+          "id": 99,
+          "area_px": 24,
+          "centroid": [
+            419.96,
+            104.33
+          ],
+          "risk": 0.18865999579429626,
+          "p_value": 0.6510416666666666,
+          "certified": false
+        },
+        {
+          "id": 100,
+          "area_px": 24,
+          "centroid": [
+            422.71,
+            114.54
+          ],
+          "risk": 0.1880200058221817,
+          "p_value": 0.6145833333333334,
+          "certified": false
+        },
+        {
+          "id": 101,
+          "area_px": 36,
+          "centroid": [
+            425.44,
+            408.92
+          ],
+          "risk": 0.18780000507831573,
+          "p_value": 0.59375,
+          "certified": false
+        },
+        {
+          "id": 102,
+          "area_px": 38,
+          "centroid": [
+            425.03,
+            203.29
+          ],
+          "risk": 0.19276000559329987,
+          "p_value": 0.7291666666666666,
+          "certified": false
+        },
+        {
+          "id": 103,
+          "area_px": 111,
+          "centroid": [
+            429.77,
+            348.96
+          ],
+          "risk": 0.19177000224590302,
+          "p_value": 0.7135416666666666,
+          "certified": false
+        },
+        {
+          "id": 104,
+          "area_px": 27,
+          "centroid": [
+            428.67,
+            100.56
+          ],
+          "risk": 0.1903800070285797,
+          "p_value": 0.6927083333333334,
+          "certified": false
+        },
+        {
+          "id": 105,
+          "area_px": 20,
+          "centroid": [
+            433.0,
+            193.5
+          ],
+          "risk": 0.18623000383377075,
+          "p_value": 0.4010416666666667,
+          "certified": false
+        },
+        {
+          "id": 106,
+          "area_px": 27,
+          "centroid": [
+            434.7,
+            108.3
+          ],
+          "risk": 0.18681000173091888,
+          "p_value": 0.4739583333333333,
+          "certified": false
+        },
+        {
+          "id": 107,
+          "area_px": 41,
+          "centroid": [
+            437.37,
+            373.44
+          ],
+          "risk": 0.1880899965763092,
+          "p_value": 0.6197916666666666,
+          "certified": false
+        },
+        {
+          "id": 108,
+          "area_px": 19,
+          "centroid": [
+            439.32,
+            198.42
+          ],
+          "risk": 0.18841999769210815,
+          "p_value": 0.640625,
+          "certified": false
+        },
+        {
+          "id": 109,
+          "area_px": 178,
+          "centroid": [
+            445.88,
+            29.04
+          ],
+          "risk": 0.27031999826431274,
+          "p_value": 0.9791666666666666,
+          "certified": false
+        }
+      ],
+      "threshold_info": {
+        "fdr_guarantee": "Track B BY: E[FDR] <= 0.1",
+        "null_sample_size": 191
+      },
+      "risk_statistics": {
+        "min": 0.18402999639511108,
+        "max": 0.27031999826431274,
+        "mean": 0.19205917418003082,
+        "median": 0.18865999579429626
+      },
+      "shift_status": {
+        "tier": "ABSTAIN",
+        "shift_score": 0.23352793994995824
+      },
+      "certification_metadata": {
+        "theoretical_semantics": {
+          "Track_A": "Finite-sample population expectation bound E[L(lambda_hat)] <= alpha on normalized loss L = FD / N.",
+          "Track_B": "False Discovery Rate control E[FDR] <= alpha under Benjamini-Hochberg (PRDS) or Benjamini-Yekutieli (arbitrary dependence).",
+          "Critical_Distinction": "Neither track guarantees per-scene FDP <= alpha. Empirical FDP on a single scene is an uncertified sample statistic."
+        },
+        "calibration_artifact": "data/calibration/d1_calibration.json",
+        "calibration_null_count": 191,
+        "split_disjointness_enforced": true
+      }
+    },
+    "evaluation": {
+      "evaluation_tp": 0,
+      "evaluation_fp": 0,
+      "evaluation_fdp": 0.0,
+      "evaluation_precision": 0.0,
+      "d_max": 2.0,
+      "note": "Empty selection; empirical FDP is 0.0 by definition."
+    }
+  }
+}

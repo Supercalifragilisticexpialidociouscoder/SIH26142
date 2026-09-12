@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cesium/1.120.0/Widgets/widgets.css">
+  <style>
+    html, body, #cesiumContainer { width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden; background: #000; }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cesium/1.120.0/Cesium.js"></script>
+</head>
+<body>
+  <div id="cesiumContainer"></div>
+  <script>
+    window.onload = function() {
+        const viewer = new Cesium.Viewer('cesiumContainer', {
+            baseLayer: false,
+            baseLayerPicker: false,
+            geocoder: false,
+            homeButton: false,
+            infoBox: false,
+            selectionIndicator: false,
+            navigationHelpButton: false,
+            sceneModePicker: false,
+            animation: false,
+            timeline: false,
+            fullscreenButton: false
+        });
+
+        // 1. ESRI World Imagery (Satellite)
+        viewer.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
+            url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}.jpg',
+            maximumLevel: 19
+        }));
+
+        // 2. Reference Labels (Boundaries, Cities, Countries)
+        viewer.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
+            url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}.png',
+            maximumLevel: 19
+        }));
+
+        // Point camera to India / Hyderabad
+        viewer.camera.setView({
+            destination: Cesium.Cartesian3.fromDegrees(78.4867, 17.3850, 4500000.0)
+        });
+    };
+  </script>
+</body>
+</html>

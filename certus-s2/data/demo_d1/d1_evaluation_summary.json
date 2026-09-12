@@ -1,0 +1,9 @@
+{
+  "total_candidates": 109,
+  "true_detections": 47,
+  "false_discoveries": 62,
+  "precision": 0.43119266055045874,
+  "hr_structure_pixels": 45813,
+  "d_max": 2.0,
+  "mean_dist_to_reference": 5.163401192454852
+}

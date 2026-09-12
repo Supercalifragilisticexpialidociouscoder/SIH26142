@@ -1,0 +1,32 @@
+{
+  "dataset": "opensr-test (spain_urban)",
+  "roi": "ROI_00001",
+  "scene_identifier": "20210811T105619_20210811T110659_T30TXM",
+  "acquisition_timestamp": "2021-08-11T10:56:19",
+  "mgrs_tile": "T30TXM",
+  "location_description": "Madrid/Guadalajara urban fabric, Spain",
+  "crs": "EPSG:32630",
+  "dimensions_10m": [
+    4,
+    128,
+    128
+  ],
+  "dimensions_2_5m": [
+    4,
+    512,
+    512
+  ],
+  "input_scale_convention": "Sentinel-2 L2A surface reflectance scaled by 10000 (uint16)",
+  "hr_reference": {
+    "available": true,
+    "source": "PNOA 2021 (Plan Nacional de Ortofotograf\u00eda A\u00e9rea, Spain)",
+    "file": "HR__ROI_00001__PNOA_ANUAL_2021_OF_ETRS89_HU30_h25_0383-2",
+    "usage_rule": "EVALUATION ONLY - STRICTLY QUARANTINED FROM INFERENCE INPUT",
+    "resolution_m": 2.5
+  },
+  "built_structure_presence": {
+    "contains_built_structures": true,
+    "structure_type": "Dense urban blocks, residential buildings, commercial facilities, street network",
+    "estimated_built_up_coverage_percent": 89.1
+  }
+}

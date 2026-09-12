@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "certus-s2"
+version = "0.1.0"
+description = "CERTUS-S2: Certified Reconstruction and Trust for Sentinel-2"
+authors = [
+    { name = "CERTUS-S2 Team" }
+]
+dependencies = [
+    "torch>=2.0.0",
+    "torchvision",
+    "rasterio",
+    "streamlit",
+    "scikit-learn",
+    "lightgbm",
+    "sen2sr",
+    "opensr-test",
+    "opensr-utils",
+    "huggingface-hub"
+]
+requires-python = ">=3.9"
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "black",
+    "isort"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+

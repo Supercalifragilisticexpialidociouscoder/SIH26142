@@ -1,0 +1,223 @@
+{
+  "scene_id": "20210811T105619_20210811T110659_T30TXM",
+  "roi": "ROI_00001",
+  "candidate_count_fixed_N": 109,
+  "risk_score_stats": {
+    "min": 0.18403,
+    "max": 0.27032,
+    "mean": 0.19206
+  },
+  "track_a_conformal_risk_control": [
+    {
+      "lambda": 0.185,
+      "selected_count": 4,
+      "true_detections": 3,
+      "false_discoveries": 1,
+      "empirical_fdp": 0.25,
+      "track_a_loss": 0.0092,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.186,
+      "selected_count": 14,
+      "true_detections": 7,
+      "false_discoveries": 7,
+      "empirical_fdp": 0.5,
+      "track_a_loss": 0.0642,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.188,
+      "selected_count": 41,
+      "true_detections": 19,
+      "false_discoveries": 22,
+      "empirical_fdp": 0.5366,
+      "track_a_loss": 0.2018,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.19,
+      "selected_count": 69,
+      "true_detections": 29,
+      "false_discoveries": 40,
+      "empirical_fdp": 0.5797,
+      "track_a_loss": 0.367,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.192,
+      "selected_count": 83,
+      "true_detections": 35,
+      "false_discoveries": 48,
+      "empirical_fdp": 0.5783,
+      "track_a_loss": 0.4404,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.195,
+      "selected_count": 93,
+      "true_detections": 38,
+      "false_discoveries": 55,
+      "empirical_fdp": 0.5914,
+      "track_a_loss": 0.5046,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.2,
+      "selected_count": 101,
+      "true_detections": 40,
+      "false_discoveries": 61,
+      "empirical_fdp": 0.604,
+      "track_a_loss": 0.5596,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.21,
+      "selected_count": 104,
+      "true_detections": 43,
+      "false_discoveries": 61,
+      "empirical_fdp": 0.5865,
+      "track_a_loss": 0.5596,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    },
+    {
+      "lambda": 0.28,
+      "selected_count": 109,
+      "true_detections": 47,
+      "false_discoveries": 62,
+      "empirical_fdp": 0.5688,
+      "track_a_loss": 0.5688,
+      "theoretical_guarantee": "E[L(lambda)] <= alpha across calibration population"
+    }
+  ],
+  "track_b_fdr_benjamini_hochberg": [
+    {
+      "alpha": 0.05,
+      "method": "BH",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.05"
+    },
+    {
+      "alpha": 0.1,
+      "method": "BH",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.1"
+    },
+    {
+      "alpha": 0.15,
+      "method": "BH",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.15"
+    },
+    {
+      "alpha": 0.2,
+      "method": "BH",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.2"
+    },
+    {
+      "alpha": 0.3,
+      "method": "BH",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.3"
+    },
+    {
+      "alpha": 0.5,
+      "method": "BH",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.5"
+    },
+    {
+      "alpha": 0.9,
+      "method": "BH",
+      "selected_count": 10,
+      "true_detections": 6,
+      "false_discoveries": 4,
+      "empirical_fdp": 0.4,
+      "fdr_guarantee": "E[FDR] <= 0.9"
+    }
+  ],
+  "track_b_fdr_benjamini_yekutieli": [
+    {
+      "alpha": 0.05,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.05"
+    },
+    {
+      "alpha": 0.1,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.1"
+    },
+    {
+      "alpha": 0.15,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.15"
+    },
+    {
+      "alpha": 0.2,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.2"
+    },
+    {
+      "alpha": 0.3,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.3"
+    },
+    {
+      "alpha": 0.5,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.5"
+    },
+    {
+      "alpha": 0.9,
+      "method": "BY",
+      "selected_count": 0,
+      "true_detections": 0,
+      "false_discoveries": 0,
+      "empirical_fdp": 0.0,
+      "fdr_guarantee": "E[FDR] <= 0.9"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "train": [
+    "SEN2NAIP_US_SITE_01",
+    "SEN2NAIP_US_SITE_02",
+    "SEN2VENUS_SITE_FR_1",
+    "SEN2VENUS_SITE_IT_1"
+  ],
+  "calibrate": [
+    "OPENSR_SPOT_SITE_01",
+    "OPENSR_SPAIN_CROPS_01"
+  ],
+  "test": [
+    "OPENSR_SPAIN_URBAN_01",
+    "SEN2VENUS_SITE_DE_1",
+    "WORLDSTRAT_AOI_01"
+  ],
+  "demo": [
+    "INDIAN_AOI_HYDERABAD",
+    "INDIAN_AOI_PUNJAB"
+  ]
+}
