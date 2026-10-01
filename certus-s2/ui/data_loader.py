@@ -564,6 +564,10 @@ def load_scene_data(
     elif scene_key == "castile_crops":
         # Castile agricultural crops domain-shift benchmark
         crops_path = CACHE_DIR / "spain_crops.pkl"
+        if not crops_path.exists():
+            st.warning("⚠️ Castile Cropland archive (spain_crops.pkl) is not bundled in cloud deployment. Loading Madrid Held-Out Benchmark instead.")
+            return load_scene_data("demo_madrid")
+
         with open(crops_path, "rb") as f:
             data = pickle.load(f)
 

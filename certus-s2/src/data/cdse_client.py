@@ -40,8 +40,19 @@ class CDSEClient:
         else:
             load_dotenv(BASE_DIR / ".env")
 
-        self.client_id = client_id or os.getenv("CDSE_CLIENT_ID")
-        self.client_secret = client_secret or os.getenv("CDSE_CLIENT_SECRET")
+        cid = client_id or os.getenv("CDSE_CLIENT_ID")
+        csec = client_secret or os.getenv("CDSE_CLIENT_SECRET")
+        if not cid or not csec:
+            try:
+                import streamlit as st
+                if hasattr(st, "secrets"):
+                    cid = cid or st.secrets.get("CDSE_CLIENT_ID")
+                    csec = csec or st.secrets.get("CDSE_CLIENT_SECRET")
+            except Exception:
+                pass
+
+        self.client_id = cid
+        self.client_secret = csec
 
         self._access_token: Optional[str] = None
         self._token_expiry_timestamp: float = 0.0

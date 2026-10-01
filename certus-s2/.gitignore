@@ -18,6 +18,8 @@ venv/
 # Testing & Cache
 .pytest_cache/
 .cache/
+*.pkl
+*.npy
 
 # OS
 .DS_Store
